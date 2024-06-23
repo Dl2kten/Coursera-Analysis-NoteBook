@@ -1,2 +1,2 @@
 # Coursera-Analysis-NoteBook
-Web scrape for Tesla and GameStop Stock and Revenue data and graph them
+Data analysis for Tesla and GameStop, use BeautifulSoup to parse Stock and Revenue and graph them
